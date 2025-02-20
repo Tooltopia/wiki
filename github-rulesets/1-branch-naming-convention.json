@@ -8,7 +8,7 @@
   "conditions": {
     "ref_name": {
       "exclude": [
-        "refs/heads/main",
+        "refs/heads/main"
       ],
       "include": [
         "~ALL"
